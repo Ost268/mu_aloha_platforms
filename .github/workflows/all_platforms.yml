@@ -91,6 +91,11 @@ jobs:
               chipname: "sm7150"
             },
             {
+              platform: "WarlockPkg",
+              codename: "warlock",
+              chipname: "sdm670"
+            },
+            {
               platform: "NapaliPkg",
               codename: "napali",
               chipname: "sdm845"
@@ -111,9 +116,9 @@ jobs:
               chipname: "sm7125"
             },
             {
-              platform: "PalimaPkg",
-              codename: "palima",
-              chipname: "sm8475"
+              platform: "WaipioPkg",
+              codename: "waipio",
+              chipname: "sm8450"
             },
             {
               platform: "SurfaceDuo1Pkg",
